@@ -49,7 +49,7 @@
 
 ###
 <h2 align="left">📊 GitHub Stats</h2>
-###
+
 
 ![](https://github-readme-stats.vercel.app/api?username=OmarKhaleed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmarKhaleed&theme=tokyonight&hide_border=true)<br/>
@@ -85,6 +85,6 @@
 
 ###
 
-<h4 align="center">"It ain’t about how hard you hit, it’s about how hard you can get hit and keep moving forward."</h4>
+<h3 align="center">"It ain’t about how hard you hit, it’s about how hard you can get hit and keep moving forward."</h3>
 
 ###
