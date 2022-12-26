@@ -55,9 +55,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-![](https://komarev.com/ghpvc/?username=OmarKhaleed)
-
 <h2 align="left">Connect with me :</h2>
 
 ###
