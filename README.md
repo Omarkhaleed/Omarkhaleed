@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma logo"  />
 </div>
 
-###
+
 # <h2 align="left">📊 GitHub Stats</h2>
 ###
 ![](https://github-readme-stats.vercel.app/api?username=OmarKhaleed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
