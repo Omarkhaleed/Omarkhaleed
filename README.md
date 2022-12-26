@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">🎓 I'm a final year Computer Science Student at Suez University.<br>✨ I'm a passionate about learning  the core of computer science and  improve my problem solving skills.<br>📚 I love to write technical posts and share them with tech community on LinkedIn.<br>🎯  I'm open to collaborating on a new project, writing articles and something that interests me.</p>
+- 🎓 I'm a final year Computer Science Student at Suez University.
+- ✨ I'm a passionate about learning  the core of computer science and  improve my problem solving skills.
+- 📚 I love to write technical posts and share them with tech community on LinkedIn.
+- 🎯  I'm open to collaborating on a new project, writing articles and something that interests me.
 
 ###
 
