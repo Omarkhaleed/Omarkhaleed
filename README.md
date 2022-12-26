@@ -64,18 +64,23 @@
   <a href="https://www.linkedin.com/in/omar-khalid-elsayed-9981291b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
+  
   <a href="https://twitter.com/Tohamiii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
   </a>
+  
   <a href="mailto:omarkhaalid76@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
-  <a href="+201284147290" target="_blank">
+ 
+  <a href="https://wa.me/01284147290" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="+201284147290" target="_blank">
+  
+  <a href="https://t.me/01284147290" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
   </a>
+  
 </div>
 
 
